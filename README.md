@@ -1,3 +1,3 @@
 # mv-Sensor
 
-![Poster](/JointSync-Poster.pdf "Poster")
+![Poster](/JointSync-Poster.jpg "Poster")
